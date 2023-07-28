@@ -38,7 +38,7 @@
             this.dayNum.Font = new System.Drawing.Font("Nirmala UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dayNum.Location = new System.Drawing.Point(0, 0);
             this.dayNum.Name = "dayNum";
-            this.dayNum.Size = new System.Drawing.Size(170, 90);
+            this.dayNum.Size = new System.Drawing.Size(170, 89);
             this.dayNum.TabIndex = 0;
             this.dayNum.Text = "01";
             this.dayNum.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -48,7 +48,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.Controls.Add(this.dayNum);
             this.Name = "DayBlanks";
-            this.Size = new System.Drawing.Size(170, 90);
+            this.Size = new System.Drawing.Size(170, 89);
             this.ResumeLayout(false);
 
         }
