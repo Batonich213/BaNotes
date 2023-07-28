@@ -15,6 +15,7 @@ namespace BaNotes
         public Form1()
         {
             InitializeComponent();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -23,6 +24,11 @@ namespace BaNotes
         }
 
         private void calendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
